@@ -26,5 +26,7 @@ Parts list:
   - Filament:
     |PLA- CF|Matcha Green|
     |-------|------------|
-    
+  - Round neodymium magnets:
+    |6 x (6x 2mm)|
+    |------------|
 
