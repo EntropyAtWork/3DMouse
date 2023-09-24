@@ -22,5 +22,8 @@ Parts list:
     |3 x Extension|
     |----| 
     |13/64" × 13/16"|
+
+  - Filament:
+    |PLA- CF|Matcha Green|
     
 
