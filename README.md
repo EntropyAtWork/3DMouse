@@ -10,11 +10,11 @@ Parts list:
   - Adafruit LED Sequins - Royal blue (3)
   - Tactile Button switch (2)
   - M 2.5 Heat Inserts (24)
-  - M 2.5
+  - M 2.5 : 
     |10 x 3mm|3 x 5mm|7 x 8mm|4 x 12mm|
     |--------|-------|-------|--------|
     
-  - Springs
+  - Springs :
     |3 x Compression|
     |----|
     |23/64" x 1-3/8"|
