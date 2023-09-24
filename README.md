@@ -23,10 +23,10 @@ Parts list:
     |----| 
     |13/64" × 13/16"|
 
-  - Filament:
+  - Filament :
     |PLA- CF|Matcha Green|
     |-------|------------|
-  - Round neodymium magnets:
+  - Round neodymium magnets :
     |6 x (6x 2mm)|
     |------------|
 
