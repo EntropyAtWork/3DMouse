@@ -17,9 +17,9 @@ Parts list:
     |3 x Compression|
     |----|
     |23/64" x 1-3/8"|
-    |---------------|
     
-    - 3 x Extension 
-    
+    |3 x Extension|
+    |----| 
+    |13/64" × 13/16"|
     
 
