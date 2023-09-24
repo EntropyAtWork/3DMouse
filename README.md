@@ -25,5 +25,6 @@ Parts list:
 
   - Filament:
     |PLA- CF|Matcha Green|
+    |-------|------------|
     
 
