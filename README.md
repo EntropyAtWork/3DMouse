@@ -14,8 +14,9 @@ Parts list:
     |10 x 3mm|3 x 5mm|7 x 8mm|4 x 12mm|
     |--------|-------|-------|--------|
   - Springs
-    3 x Compression |23/64" x 1-3/8"| | |
-                    |---------------|--| --|
+    Compression
+    |3 x |  
+    |23/64" x 1-3/8"|
     - 3 x Extension 
     
     
