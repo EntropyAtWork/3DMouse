@@ -30,3 +30,6 @@ Parts list:
     |6 x (6x 2mm)|
     |------------|
 
+Test and calibration of magnetometer:
+- https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf
+- https://github.com/MomsFriendlyRobotCompany/nxp_imu/blob/master/docs/jupyter/imu.ipynb
